@@ -1,0 +1,38 @@
+body {	
+	color: blue;
+	font-size: 18px;	
+}
+
+#my span {
+	font-size: 50px;
+	font-weight: bold;
+	color: green;
+}
+
+h1 {
+	margin-bottom:100px;
+	text-align:center;
+}
+h3 {	
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+#main {
+	
+}
+ul {
+	list-style-type: square;
+}
+
+
+#third {
+	font-size: 24px;
+	font-style: italic;
+	color: red;
+}
+.fifth {
+	font-size: 24px;
+	font-style: oblique;
+	color: purple;
+	text-decoration:line-through;
+}

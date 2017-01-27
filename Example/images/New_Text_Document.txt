@@ -1,0 +1,22 @@
+git clone
+git branch
+git init
+git checkout -b master
+git status
+git checkout -b developer
+git push -u origin develop
+
+git checkout -b branch1
+
+git status
+git add . - adds everything in repository
+git commit - new things
+git fetch
+git pull
+git checkout develop
+git reset
+git reset HEAD^1
+
+
+
+git extensions
