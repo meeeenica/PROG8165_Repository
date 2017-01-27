@@ -1,0 +1,51 @@
+body {
+	background: #ededed;
+	font: 14px "Gill Sans", Helvetica, Arial, sans-serif;
+	color: navy;
+	line-height: 18px;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+#instructions{
+	font-size: 14px;
+	color:red;
+	font-weight:bolder;
+}
+
+#myMain p{
+	text-indent:50px;
+}
+#item3{
+	font-size: 16px;
+	color:green;
+	font-weight:bolder;
+}
+
+#item3:hover {
+	visibility:hidden;
+}
+
+#container{
+	color:black;
+}
+
+#container ul li{
+	font-family: Segoe;
+	border-right: 1px solid #F5F5F5;
+	text-align: left;
+	padding: 6px 0 6px 0;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+#myFooter
+{
+	text-align:center;
+}
+
+
